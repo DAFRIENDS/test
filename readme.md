@@ -1,1 +1,1 @@
-# Hello
+# This is my first time using Git hub for making my own stuff.
