@@ -1,0 +1,9 @@
+print('In this program I am going to be converting pounds to kg. ')
+pounds = int(input('How many pounds do you want to convert to kg? '))
+kg = pounds / 2.20462
+print(kg)
+
+print('I will also convert kg to pounds ')
+kilograms = int(input('How many kilograms do you want to convert to pounds? '))
+lbs = kilograms * 2.20462
+print(lbs)
